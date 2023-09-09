@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hariom280
-- 👀 I’m interested in Cricket, Badminton, Internet Surfing, Coding.
-- 🌱 I’m currently learning PERL,Jquery.
+- 👀 I’m interested in Cricket, Badminton, Internet Surfing, and Coding.
+- 🌱 I’m currently learning PHP, SYMFONY, AKENEO.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email id:- hariom.pandey.432@gmail.com
 
